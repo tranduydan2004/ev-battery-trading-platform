@@ -1,0 +1,100 @@
+networks:
+  evnet: {}
+
+volumes:
+  pg_catalog: {}
+  pg_identity: {}
+
+
+services:
+  catalog-db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: ${CATALOG_DB_USER}
+      POSTGRES_PASSWORD: ${CATALOG_DB_PASSWORD}
+      POSTGRES_DB: ${CATALOG_DB_NAME}
+    ports: ["5434:5432"]               # connect từ host nếu cần
+    volumes:
+      - pg_catalog:/var/lib/postgresql/data
+    networks: [evnet]
+
+  catalog-api:
+    build:
+      context: .
+      dockerfile: src/catalog-service/Catalog.API/Dockerfile
+    environment:
+      ASPNETCORE_URLS: http://+:8080
+      ConnectionStrings__Default: "Host=catalog-db;Port=5432;Database=${CATALOG_DB_NAME};Username=${CATALOG_DB_USER};Password=${CATALOG_DB_PASSWORD}"
+    depends_on:
+      - catalog-db
+    ports:
+      - "8102:8080"                    # bypass Kong
+    networks:
+      evnet:
+        aliases:
+          - catalog-api                # alias DNS ổn định trong mạng
+    restart: unless-stopped            # nếu lỡ crash thì tự lên lại
+
+  identity-db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: ${IDENTITY_DB_USER}
+      POSTGRES_PASSWORD: ${IDENTITY_DB_PASSWORD}
+      POSTGRES_DB: ${IDENTITY_DB_NAME}
+    ports:
+      - "5435:5432"   # để connect từ host
+    volumes:
+      - pg_identity:/var/lib/postgresql/data
+    networks: [evnet]
+
+  identity-api:
+    build:
+      context: .
+      dockerfile: src/identity-service/Identity.API/Dockerfile
+    environment:
+      ASPNETCORE_URLS: http://+:8080
+      ConnectionStrings__Default: "Host=identity-db;Port=5432;Database=${IDENTITY_DB_NAME};Username=${IDENTITY_DB_USER};Password=${IDENTITY_DB_PASSWORD}"
+    depends_on:
+      - identity-db
+    ports:
+      - "8103:8080"   # bypass Kong, test trực tiếp
+    networks: [evnet]
+    restart: unless-stopped
+
+
+  kong:
+    image: kong:3.7
+    container_name: kong
+    volumes:
+      - ./deploy/kong/kong.yaml:/usr/local/kong/declarative/kong.yaml:ro
+      - ./logs:/tmp
+    environment:
+      KONG_DATABASE: "off"
+      KONG_DECLARATIVE_CONFIG: /usr/local/kong/declarative/kong.yaml
+      KONG_PROXY_ACCESS_LOG: /dev/stdout
+      KONG_ADMIN_ACCESS_LOG: /dev/stdout
+      KONG_PROXY_ERROR_LOG: /dev/stderr
+      KONG_ADMIN_ERROR_LOG: /dev/stderr
+      KONG_PROXY_LISTEN: 0.0.0.0:8000
+      KONG_ADMIN_LISTEN: 0.0.0.0:8001
+    ports:
+      - "8000:8000"   # Gateway
+      - "8001:8001"   # Admin API
+    depends_on:
+      - catalog-api
+    networks:
+      evnet:
+        aliases:
+          - kong
+  konga:
+    image: pantsel/konga:latest
+    restart: unless-stopped
+    ports:
+      - "1337:1337"
+    environment:
+      NODE_ENV: production
+    networks:
+      evnet:
+        aliases:
+          - konga
+

@@ -1,0 +1,6 @@
+@Rating.Domain_HostAddress = http://localhost:5076
+
+GET {{Rating.Domain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

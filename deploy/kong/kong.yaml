@@ -1,0 +1,68 @@
+_format_version: "3.0"
+_transform: true
+consumers:
+  - username: identity-client
+  - username: evstore
+    keyauth_credentials:
+      - key: my-super-secret-key
+
+jwt_secrets:
+  - consumer: identity-client
+    algorithm: HS256
+    key: IdentityService
+    secret: this_is_my_super_secret_key_123456789
+
+services:
+  - name: catalog
+    url: http://catalog-api:8080/
+    routes:
+      - name: catalog-route
+        paths: ["/catalog"]
+        strip_path: false
+    plugins:
+      - name: key-auth
+      - name: file-log
+        config:
+          path: /tmp/catalog-requests.log
+          reopen: true
+      - name: rate-limiting
+        config:
+          minute: 30
+          policy: local
+      - name: proxy-cache
+        config:
+          strategy: memory           # cache trong RAM
+          content_type: ["application/json"]  # chỉ cache response JSON
+          cache_control: true        # tôn trọng header Cache-Control từ backend              # MB cho cache RAM
+          cache_ttl: 60                    # thời gian cache (giây)
+
+  # Service cho LOGIN (không cần JWT)
+  - name: identity-login
+    url: http://identity-api:8080/
+    routes:
+      - name: identity-login-route
+        paths: ["/identity/login"]
+        strip_path: false
+
+  # Service cho HEALTH (cần JWT)
+  - name: identity-health
+    url: http://identity-api:8080/
+    routes:
+      - name: identity-health-route
+        paths: ["/identity/health"]
+        strip_path: false
+        plugins:
+          - name: jwt
+            config:
+              claims_to_verify:
+                - exp
+              key_claim_name: iss     # Kong sẽ lấy claim "iss" để map tới consumer
+    plugins:
+      - name: file-log
+        config:
+          path: /tmp/identity-requests.log
+          reopen: true
+      - name: rate-limiting
+        config:
+          minute: 5         # 5 req mỗi phút
+          policy: local

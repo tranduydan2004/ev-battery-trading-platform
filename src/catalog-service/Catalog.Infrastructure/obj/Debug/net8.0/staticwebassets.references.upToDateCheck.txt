@@ -1,0 +1,8 @@
+C:\Users\TranVanDu\source\repos\ElectronicVehicleStoreBE\src\catalog-service\Catalog.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranVanDu\source\repos\ElectronicVehicleStoreBE\src\catalog-service\Catalog.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranVanDu\source\repos\ElectronicVehicleStoreBE\src\catalog-service\Catalog.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranVanDu\source\repos\ElectronicVehicleStoreBE\src\catalog-service\Catalog.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranVanDu\source\repos\ElectronicVehicleStoreBE\src\catalog-service\Catalog.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranVanDu\source\repos\ElectronicVehicleStoreBE\src\catalog-service\Catalog.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranVanDu\source\repos\ElectronicVehicleStoreBE\src\catalog-service\Catalog.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TranVanDu\source\repos\ElectronicVehicleStoreBE\src\catalog-service\Catalog.Domain\obj\Debug\net8.0\staticwebassets.build.json

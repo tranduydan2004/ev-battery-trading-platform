@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF9DBBA-B990-44A0-8E1D-BDE9EFA8BC4A}|src\\auction-service\\Auction.Infrastructure\\Auction.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\auction-service\\auction.infrastructure\\auction.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACF9DBBA-B990-44A0-8E1D-BDE9EFA8BC4A}|src\\auction-service\\Auction.Infrastructure\\Auction.Infrastructure.csproj|solutionrelative:src\\auction-service\\auction.infrastructure\\auction.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1117A934-DD74-4C93-BDDB-6CD3A5FED943}|src\\rating-service\\Rating.Infrastructure\\Rating.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\rating-service\\rating.infrastructure\\rating.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1117A934-DD74-4C93-BDDB-6CD3A5FED943}|src\\rating-service\\Rating.Infrastructure\\Rating.Infrastructure.csproj|solutionrelative:src\\rating-service\\rating.infrastructure\\rating.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D86E9A-EC8D-42E7-9F23-E13EB3B2B536}|src\\payment-service\\Payment.Infrastructure\\Payment.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\payment-service\\payment.infrastructure\\payment.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4D86E9A-EC8D-42E7-9F23-E13EB3B2B536}|src\\payment-service\\Payment.Infrastructure\\Payment.Infrastructure.csproj|solutionrelative:src\\payment-service\\payment.infrastructure\\payment.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F892A25-1210-4FAA-8965-808A17F582F4}|src\\payment-service\\Payment.API\\Payment.API.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\payment-service\\payment.api\\payment.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F892A25-1210-4FAA-8965-808A17F582F4}|src\\payment-service\\Payment.API\\Payment.API.csproj|solutionrelative:src\\payment-service\\payment.api\\payment.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auction.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\auction-service\\Auction.Infrastructure\\Auction.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\auction-service\\Auction.Infrastructure\\Auction.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\auction-service\\Auction.Infrastructure\\Auction.Infrastructure.csproj",
+              "RelativeToolTip": "src\\auction-service\\Auction.Infrastructure\\Auction.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T14:25:18.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\payment-service\\Payment.Infrastructure\\Payment.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\payment-service\\Payment.Infrastructure\\Payment.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\payment-service\\Payment.Infrastructure\\Payment.Infrastructure.csproj",
+              "RelativeToolTip": "src\\payment-service\\Payment.Infrastructure\\Payment.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T14:14:16.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rating.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\rating-service\\Rating.Infrastructure\\Rating.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\rating-service\\Rating.Infrastructure\\Rating.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\rating-service\\Rating.Infrastructure\\Rating.Infrastructure.csproj",
+              "RelativeToolTip": "src\\rating-service\\Rating.Infrastructure\\Rating.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T14:11:24.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.API",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\payment-service\\Payment.API\\Payment.API.csproj",
+              "RelativeDocumentMoniker": "src\\payment-service\\Payment.API\\Payment.API.csproj",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\payment-service\\Payment.API\\Payment.API.csproj",
+              "RelativeToolTip": "src\\payment-service\\Payment.API\\Payment.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T14:10:43.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

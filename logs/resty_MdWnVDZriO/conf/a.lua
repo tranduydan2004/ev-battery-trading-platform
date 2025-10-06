@@ -1,0 +1,7 @@
+setmetatable(_G, nil)
+
+pcall(require, "luarocks.loader")
+
+package.path = (os.getenv("KONG_LUA_PATH_OVERRIDE") or "") .. "./?.lua;./?/init.lua;" .. package.path
+
+require("kong.cmd.init")("health", { ["vv"] = false, ["v"] = false, })

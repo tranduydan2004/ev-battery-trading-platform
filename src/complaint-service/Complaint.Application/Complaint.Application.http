@@ -1,0 +1,6 @@
+@Complaint.Application_HostAddress = http://localhost:5192
+
+GET {{Complaint.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

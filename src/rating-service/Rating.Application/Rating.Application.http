@@ -1,0 +1,6 @@
+@Rating.Application_HostAddress = http://localhost:5058
+
+GET {{Rating.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

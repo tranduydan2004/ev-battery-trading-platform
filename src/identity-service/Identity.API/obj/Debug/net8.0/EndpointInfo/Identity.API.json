@@ -1,0 +1,143 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Identity.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/identity/health": {
+      "get": {
+        "tags": [
+          "Auth"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/identity/login": {
+      "post": {
+        "tags": [
+          "Identity.API"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginRequest"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Users": {
+      "post": {
+        "tags": [
+          "Users"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "UserEmail": {
+                    "type": "string"
+                  },
+                  "UserPhone": {
+                    "type": "string"
+                  },
+                  "UserPassword": {
+                    "type": "string"
+                  },
+                  "UserFullName": {
+                    "type": "string"
+                  },
+                  "UserAddress": {
+                    "type": "string"
+                  },
+                  "UserBirthday": {
+                    "type": "string",
+                    "format": "date-time"
+                  },
+                  "Avatar": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "CitizenIdCard": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "Status": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "UserEmail": {
+                  "style": "form"
+                },
+                "UserPhone": {
+                  "style": "form"
+                },
+                "UserPassword": {
+                  "style": "form"
+                },
+                "UserFullName": {
+                  "style": "form"
+                },
+                "UserAddress": {
+                  "style": "form"
+                },
+                "UserBirthday": {
+                  "style": "form"
+                },
+                "Avatar": {
+                  "style": "form"
+                },
+                "CitizenIdCard": {
+                  "style": "form"
+                },
+                "Status": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "LoginRequest": {
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

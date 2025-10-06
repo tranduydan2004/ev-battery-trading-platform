@@ -1,0 +1,1269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|solutionrelative:src\\catalog-service\\catalog.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:src\\catalog-service\\catalog.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.infrastructure\\catalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:src\\catalog-service\\catalog.infrastructure\\catalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:src\\catalog-service\\catalog.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:src\\catalog-service\\catalog.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|solutionrelative:src\\identity-service\\identity.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|solutionrelative:src\\identity-service\\identity.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DB34E0-FA44-46C5-9B94-00EB3E62DA3A}|src\\identity-service\\Identity.API\\Identity.API.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09DB34E0-FA44-46C5-9B94-00EB3E62DA3A}|src\\identity-service\\Identity.API\\Identity.API.csproj|solutionrelative:src\\identity-service\\identity.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|solutionrelative:src\\identity-service\\identity.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DB34E0-FA44-46C5-9B94-00EB3E62DA3A}|src\\identity-service\\Identity.API\\Identity.API.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{09DB34E0-FA44-46C5-9B94-00EB3E62DA3A}|src\\identity-service\\Identity.API\\Identity.API.csproj|solutionrelative:src\\identity-service\\identity.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DB34E0-FA44-46C5-9B94-00EB3E62DA3A}|src\\identity-service\\Identity.API\\Identity.API.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DB34E0-FA44-46C5-9B94-00EB3E62DA3A}|src\\identity-service\\Identity.API\\Identity.API.csproj|solutionrelative:src\\identity-service\\identity.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.application\\services\\usercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|solutionrelative:src\\identity-service\\identity.application\\services\\usercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|solutionrelative:src\\identity-service\\identity.application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.application\\contracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|solutionrelative:src\\identity-service\\identity.application\\contracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|solutionrelative:src\\identity-service\\identity.application\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.application\\services\\productcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:src\\catalog-service\\catalog.application\\services\\productcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.domain\\entities\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|solutionrelative:src\\catalog-service\\catalog.domain\\entities\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C92F24-371C-4A93-BC57-3FAA21C02B7D}|src\\catalog-service\\Catalog.API\\Catalog.API.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93C92F24-371C-4A93-BC57-3FAA21C02B7D}|src\\catalog-service\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\catalog-service\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C92F24-371C-4A93-BC57-3FAA21C02B7D}|src\\catalog-service\\Catalog.API\\Catalog.API.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C92F24-371C-4A93-BC57-3FAA21C02B7D}|src\\catalog-service\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\catalog-service\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.application\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:src\\catalog-service\\catalog.application\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C92F24-371C-4A93-BC57-3FAA21C02B7D}|src\\catalog-service\\Catalog.API\\Catalog.API.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93C92F24-371C-4A93-BC57-3FAA21C02B7D}|src\\catalog-service\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\catalog-service\\catalog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C92F24-371C-4A93-BC57-3FAA21C02B7D}|src\\catalog-service\\Catalog.API\\Catalog.API.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93C92F24-371C-4A93-BC57-3FAA21C02B7D}|src\\catalog-service\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\catalog-service\\catalog.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DB34E0-FA44-46C5-9B94-00EB3E62DA3A}|src\\identity-service\\Identity.API\\Identity.API.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DB34E0-FA44-46C5-9B94-00EB3E62DA3A}|src\\identity-service\\Identity.API\\Identity.API.csproj|solutionrelative:src\\identity-service\\identity.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DB34E0-FA44-46C5-9B94-00EB3E62DA3A}|src\\identity-service\\Identity.API\\Identity.API.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DB34E0-FA44-46C5-9B94-00EB3E62DA3A}|src\\identity-service\\Identity.API\\Identity.API.csproj|solutionrelative:src\\identity-service\\identity.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|solutionrelative:src\\identity-service\\identity.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Migrations\\20251001141029_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\identity-service\\Identity.Infrastructure\\Migrations\\20251001141029_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|solutionrelative:src\\identity-service\\identity.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|solutionrelative:src\\identity-service\\identity.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|solutionrelative:src\\identity-service\\identity.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|solutionrelative:src\\identity-service\\identity.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.domain\\abtractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|solutionrelative:src\\identity-service\\identity.domain\\abtractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.domain\\entities\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|solutionrelative:src\\identity-service\\identity.domain\\entities\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|solutionrelative:src\\identity-service\\identity.application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.application\\contracts\\iusercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|solutionrelative:src\\identity-service\\identity.application\\contracts\\iusercommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.application\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|solutionrelative:src\\identity-service\\identity.application\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.domain\\enums\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|solutionrelative:src\\identity-service\\identity.domain\\enums\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.domain\\abtractions\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|solutionrelative:src\\identity-service\\identity.domain\\abtractions\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.infrastructure\\services\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|solutionrelative:src\\identity-service\\identity.infrastructure\\services\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|solutionrelative:src\\identity-service\\identity.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.domain\\abtractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|solutionrelative:src\\identity-service\\identity.domain\\abtractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|solutionrelative:src\\identity-service\\identity.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|solutionrelative:src\\identity-service\\identity.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Migrations\\20250930162559_InitIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\identity-service\\Identity.Infrastructure\\Migrations\\20250930162559_InitIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.application\\contracts\\iuserqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E888EA5-7183-4C5A-B83C-E084FFCFB4EA}|src\\identity-service\\Identity.Application\\Identity.Application.csproj|solutionrelative:src\\identity-service\\identity.application\\contracts\\iuserqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:src\\catalog-service\\catalog.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|solutionrelative:src\\catalog-service\\catalog.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:src\\catalog-service\\catalog.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:src\\catalog-service\\catalog.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|solutionrelative:src\\catalog-service\\catalog.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.domain\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|solutionrelative:src\\catalog-service\\catalog.domain\\abstractions\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.domain\\abtractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40D5C0E-58BD-4704-84EB-5690B92B1533}|src\\identity-service\\Identity.Domain\\Identity.Domain.csproj|solutionrelative:src\\identity-service\\identity.domain\\abtractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.application\\contracts\\iproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:src\\catalog-service\\catalog.application\\contracts\\iproductcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.application\\services\\productqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:src\\catalog-service\\catalog.application\\services\\productqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.application\\dtos\\productbriefdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:src\\catalog-service\\catalog.application\\dtos\\productbriefdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.application\\contracts\\iproductqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:src\\catalog-service\\catalog.application\\contracts\\iproductqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:src\\catalog-service\\catalog.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.domain\\enums\\productstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|solutionrelative:src\\catalog-service\\catalog.domain\\enums\\productstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.application\\catalog.application.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:src\\catalog-service\\catalog.application\\catalog.application.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C92F24-371C-4A93-BC57-3FAA21C02B7D}|src\\catalog-service\\Catalog.API\\Catalog.API.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.api\\catalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{93C92F24-371C-4A93-BC57-3FAA21C02B7D}|src\\catalog-service\\Catalog.API\\Catalog.API.csproj|solutionrelative:src\\catalog-service\\catalog.api\\catalog.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.application\\catalog.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DC768D7-9D34-495B-89E3-D71C98C44873}|src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:src\\catalog-service\\catalog.application\\catalog.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.domain\\catalog.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E4F51AD-6E00-414A-965C-1F8AFF20CF7E}|src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj|solutionrelative:src\\catalog-service\\catalog.domain\\catalog.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\gateway\\kong.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gateway\\kong.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Application\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Domain\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\DTOs\\CreateProductDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Application\\DTOs\\CreateProductDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Entities\\ProductDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Domain\\Entities\\ProductDetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Abstractions\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Domain\\Abstractions\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Enums\\ProductStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Domain\\Enums\\ProductStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Contracts\\IProductCommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Application\\Contracts\\IProductCommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Application\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Services\\ProductCommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Application\\Services\\ProductCommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Contracts\\IProductQueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Application\\Contracts\\IProductQueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Services\\ProductQueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Application\\Services\\ProductQueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\DTOs\\ProductBriefDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Application\\DTOs\\ProductBriefDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Abstractions\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Catalog.Domain\\Abstractions\\IUnitOfWork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.infrastructure\\migrations\\20250929030407_initcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:src\\catalog-service\\catalog.infrastructure\\migrations\\20250929030407_initcatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\catalog-service\\catalog.infrastructure\\migrations\\20251001141014_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F932F674-0B7B-42FA-A74D-93552B682A97}|src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:src\\catalog-service\\catalog.infrastructure\\migrations\\20251001141014_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|c:\\users\\tranvandu\\source\\repos\\electronicvehiclestorebe\\src\\identity-service\\identity.infrastructure\\migrations\\20251001141728_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F788F4B9-1432-4B3D-81DE-2BC859D39BB3}|src\\identity-service\\Identity.Infrastructure\\Identity.Infrastructure.csproj|solutionrelative:src\\identity-service\\identity.infrastructure\\migrations\\20251001141728_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Infrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\Program.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Infrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:11:19.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:18:51.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalog.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T13:58:52.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:55:55.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:27:59.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.API\\appsettings.json",
+              "RelativeToolTip": "src\\identity-service\\Identity.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T14:39:20.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductCommands.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Services\\ProductCommands.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Application\\Services\\ProductCommands.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Services\\ProductCommands.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Application\\Services\\ProductCommands.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIAzwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T17:38:40.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.API\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.API\\Dockerfile",
+              "RelativeToolTip": "src\\identity-service\\Identity.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-30T14:36:03.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:10:30.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:28:49.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.API\\Program.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.API\\Program.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:32:29.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserCommands.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Services\\UserCommands.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Application\\Services\\UserCommands.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Services\\UserCommands.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Application\\Services\\UserCommands.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:21:19.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Application\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Application\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:20:08.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Contracts\\IAuthService.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Application\\Contracts\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Contracts\\IAuthService.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Application\\Contracts\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:19:14.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:18:46.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\DTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Application\\DTOs\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\DTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Application\\DTOs\\CreateUserDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:43:30.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDetail.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Entities\\ProductDetail.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Domain\\Entities\\ProductDetail.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Entities\\ProductDetail.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Domain\\Entities\\ProductDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:28:02.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Catalog.API.csproj",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T14:05:10.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.API\\Dockerfile",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.API\\Dockerfile",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-28T14:49:36.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:32:13.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Services\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Infrastructure\\Services\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Services\\JwtProvider.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Infrastructure\\Services\\JwtProvider.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T06:45:50.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:43:42.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Application\\DTOs\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Application\\DTOs\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:27:23.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.API\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:45:01.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.API\\appsettings.json",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T13:45:04.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20251001141014_Init.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\Migrations\\20251001141014_Init.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Infrastructure\\Migrations\\20251001141014_Init.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\Migrations\\20251001141014_Init.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Infrastructure\\Migrations\\20251001141014_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:10:14.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20251001141728_Init.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Migrations\\20251001141728_Init.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Infrastructure\\Migrations\\20251001141728_Init.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Migrations\\20251001141728_Init.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Infrastructure\\Migrations\\20251001141728_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:17:28.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20251001141029_Init.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Migrations\\20251001141029_Init.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Infrastructure\\Migrations\\20251001141029_Init.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Migrations\\20251001141029_Init.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Infrastructure\\Migrations\\20251001141029_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:10:29.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Program.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Program.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:12:54.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:15:36.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Entities\\UserProfile.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Domain\\Entities\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Entities\\UserProfile.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Domain\\Entities\\UserProfile.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA/wBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T02:22:45.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:18:30.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Program.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:24:22.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Abtractions\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Domain\\Abtractions\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Abtractions\\IUserRepository.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Domain\\Abtractions\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:54:54.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\DTOs\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Application\\DTOs\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\DTOs\\LoginResponse.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Application\\DTOs\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:21:08.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUserCommands.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Contracts\\IUserCommands.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Application\\Contracts\\IUserCommands.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Contracts\\IUserCommands.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Application\\Contracts\\IUserCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:05:43.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserStatus.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Enums\\UserStatus.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Domain\\Enums\\UserStatus.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Enums\\UserStatus.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Domain\\Enums\\UserStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:12:04.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Abtractions\\IFileStorage.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Domain\\Abtractions\\IFileStorage.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Abtractions\\IFileStorage.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Domain\\Abtractions\\IFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:56:41.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\DTOs\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Application\\DTOs\\UserResponseDto.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\DTOs\\UserResponseDto.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Application\\DTOs\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:09:20.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LocalFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Services\\LocalFileStorage.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Infrastructure\\Services\\LocalFileStorage.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Services\\LocalFileStorage.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Infrastructure\\Services\\LocalFileStorage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T06:26:34.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:23:44.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Abtractions\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Domain\\Abtractions\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Abtractions\\IJwtProvider.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Domain\\Abtractions\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T06:43:40.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Infrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Program.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Infrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T04:54:41.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:47:03.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250930162559_InitIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Migrations\\20250930162559_InitIdentity.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Infrastructure\\Migrations\\20250930162559_InitIdentity.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Infrastructure\\Migrations\\20250930162559_InitIdentity.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Infrastructure\\Migrations\\20250930162559_InitIdentity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T16:25:59.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:31:02.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IUserQueries.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Contracts\\IUserQueries.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Application\\Contracts\\IUserQueries.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Application\\Contracts\\IUserQueries.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Application\\Contracts\\IUserQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:08:00.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Program.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:41:11.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:35:03.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:27:19.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Abstractions\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Domain\\Abstractions\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Abstractions\\IProductRepository.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Domain\\Abstractions\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:02:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:03:54.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Abtractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\identity-service\\Identity.Domain\\Abtractions\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\identity-service\\Identity.Domain\\Abtractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\identity-service\\Identity.Domain\\Abtractions\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:56:46.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IProductCommands.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Contracts\\IProductCommands.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Application\\Contracts\\IProductCommands.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Contracts\\IProductCommands.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Application\\Contracts\\IProductCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:29:16.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductBriefDto.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\DTOs\\ProductBriefDto.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Application\\DTOs\\ProductBriefDto.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\DTOs\\ProductBriefDto.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Application\\DTOs\\ProductBriefDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:27:25.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Program.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Program.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:26:26.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProductQueries.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Services\\ProductQueries.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Application\\Services\\ProductQueries.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Services\\ProductQueries.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Application\\Services\\ProductQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:27:08.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IProductQueries.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Contracts\\IProductQueries.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Application\\Contracts\\IProductQueries.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Contracts\\IProductQueries.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Application\\Contracts\\IProductQueries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:03:28.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductStatus.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Enums\\ProductStatus.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Domain\\Enums\\ProductStatus.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Enums\\ProductStatus.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Domain\\Enums\\ProductStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:28:03.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Catalog.Application.http",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Catalog.Application.http",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Application\\Catalog.Application.http",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Catalog.Application.http",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Application\\Catalog.Application.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-29T08:27:07.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Catalog.API.http",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.API\\Catalog.API.http",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.API\\Catalog.API.http",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.API\\Catalog.API.http",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.API\\Catalog.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-29T07:41:25.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20250929030407_InitCatalog.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\Migrations\\20250929030407_InitCatalog.cs",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Infrastructure\\Migrations\\20250929030407_InitCatalog.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Infrastructure\\Migrations\\20250929030407_InitCatalog.cs",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Infrastructure\\Migrations\\20250929030407_InitCatalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:04:07.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Catalog.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Application\\Catalog.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T15:55:19.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Catalog.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj",
+              "RelativeToolTip": "src\\catalog-service\\Catalog.Domain\\Catalog.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T16:18:38.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "kong.yaml",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\gateway\\kong.yaml",
+              "RelativeDocumentMoniker": "gateway\\kong.yaml",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\gateway\\kong.yaml",
+              "RelativeToolTip": "gateway\\kong.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-28T13:53:44.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Dockerfile",
+              "RelativeDocumentMoniker": "Catalog.Application\\Dockerfile",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Dockerfile",
+              "RelativeToolTip": "Catalog.Application\\Dockerfile",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-28T13:55:05.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Catalog.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Catalog.Domain\\Entities\\Product.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:01:47.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Catalog.Application\\DTOs\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "Catalog.Application\\DTOs\\CreateProductDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:51:39.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProductDetail.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Entities\\ProductDetail.cs",
+              "RelativeDocumentMoniker": "Catalog.Domain\\Entities\\ProductDetail.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Entities\\ProductDetail.cs",
+              "RelativeToolTip": "Catalog.Domain\\Entities\\ProductDetail.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:57:26.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Abstractions\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Catalog.Domain\\Abstractions\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Abstractions\\IProductRepository.cs",
+              "RelativeToolTip": "Catalog.Domain\\Abstractions\\IProductRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:06:58.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ProductStatus.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Enums\\ProductStatus.cs",
+              "RelativeDocumentMoniker": "Catalog.Domain\\Enums\\ProductStatus.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Enums\\ProductStatus.cs",
+              "RelativeToolTip": "Catalog.Domain\\Enums\\ProductStatus.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:48:51.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IProductCommands.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Contracts\\IProductCommands.cs",
+              "RelativeDocumentMoniker": "Catalog.Application\\Contracts\\IProductCommands.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Contracts\\IProductCommands.cs",
+              "RelativeToolTip": "Catalog.Application\\Contracts\\IProductCommands.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:04:00.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Catalog.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Catalog.Application\\DependencyInjection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:14:29.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProductCommands.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Services\\ProductCommands.cs",
+              "RelativeDocumentMoniker": "Catalog.Application\\Services\\ProductCommands.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Services\\ProductCommands.cs",
+              "RelativeToolTip": "Catalog.Application\\Services\\ProductCommands.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:06:28.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IProductQueries.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Contracts\\IProductQueries.cs",
+              "RelativeDocumentMoniker": "Catalog.Application\\Contracts\\IProductQueries.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Contracts\\IProductQueries.cs",
+              "RelativeToolTip": "Catalog.Application\\Contracts\\IProductQueries.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:02:50.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ProductQueries.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Services\\ProductQueries.cs",
+              "RelativeDocumentMoniker": "Catalog.Application\\Services\\ProductQueries.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\Services\\ProductQueries.cs",
+              "RelativeToolTip": "Catalog.Application\\Services\\ProductQueries.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:05:23.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ProductBriefDto.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\DTOs\\ProductBriefDto.cs",
+              "RelativeDocumentMoniker": "Catalog.Application\\DTOs\\ProductBriefDto.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Application\\DTOs\\ProductBriefDto.cs",
+              "RelativeToolTip": "Catalog.Application\\DTOs\\ProductBriefDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:52:36.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Catalog.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\Catalog.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "Catalog.Domain\\Abstractions\\IUnitOfWork.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T11:08:47.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
