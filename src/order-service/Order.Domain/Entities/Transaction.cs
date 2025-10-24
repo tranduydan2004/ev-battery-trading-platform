@@ -27,6 +27,25 @@ namespace Order.Domain.Entities
         // Constructor chính để tạo đơn hàng mới (nghiệp vụ)
         public Transaction(int productId, int sellerId, int buyerId, int feeId, int productType, decimal basePrice, decimal commissionFee, decimal? serviceFee, decimal buyerAmount, decimal sellerAmount, decimal platformAmount)
         {
+            // Bổ sung Validation (ArgumentException)
+            if (productId <= 0)
+                throw new ArgumentException("Product ID must be valid.", nameof(productId));
+
+            if (sellerId <= 0)
+                throw new ArgumentException("Seller ID must be valid.", nameof(sellerId));
+
+            if (buyerId <= 0)
+                throw new ArgumentException("Buyer ID must be valid.", nameof(buyerId));
+
+            if (basePrice <= 0)
+                throw new ArgumentException("Base price must be positive.", nameof(basePrice));
+
+            if (buyerAmount <= 0)
+                throw new ArgumentException("Buyer amount must be positive.", nameof(buyerAmount));
+
+            if (platformAmount < 0)
+                throw new ArgumentException("Platform amount cannot be negative.", nameof(platformAmount));
+
             ProductId = productId;
             SellerId = sellerId;
             BuyerId = buyerId;
@@ -38,6 +57,7 @@ namespace Order.Domain.Entities
             ServiceFee = serviceFee;
             BuyerAmount = buyerAmount;
             SellerAmount = sellerAmount;
+            PlatformAmount = platformAmount;
             CreatedAt = DateTimeOffset.UtcNow;
         }
 

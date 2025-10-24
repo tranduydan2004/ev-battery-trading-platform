@@ -1,5 +1,3 @@
-D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\bin\Debug\net8.0\appsettings.Development.json
-D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\bin\Debug\net8.0\appsettings.json
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\bin\Debug\net8.0\Order.Domain.staticwebassets.endpoints.json
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\bin\Debug\net8.0\Order.Domain.exe
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\bin\Debug\net8.0\Order.Domain.deps.json
@@ -28,10 +26,10 @@ D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\D
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\Debug\net8.0\staticwebassets.development.json
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\Debug\net8.0\swae.build.ex.cache
-D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\Debug\net8.0\Order.Do.5EF8E5B4.Up2Date
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\Debug\net8.0\Order.Domain.dll
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\Debug\net8.0\refint\Order.Domain.dll
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\Debug\net8.0\Order.Domain.pdb
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\Debug\net8.0\Order.Domain.genruntimeconfig.cache
 D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\Debug\net8.0\ref\Order.Domain.dll
+D:\projects\App\ev-battery-trading-platform\src\order-service\Order.Domain\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
