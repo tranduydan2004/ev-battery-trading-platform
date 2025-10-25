@@ -3258,23 +3258,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TranVanDu\\.nuget\\packages\\": {},
+    "C:\\Users\\ACER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\order-service\\Order.API\\Order.API.csproj",
+      "projectUniqueName": "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.API\\Order.API.csproj",
       "projectName": "Order.API",
-      "projectPath": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\order-service\\Order.API\\Order.API.csproj",
-      "packagesPath": "C:\\Users\\TranVanDu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TranVanDu\\source\\repos\\ElectronicVehicleStoreBE\\src\\order-service\\Order.API\\obj\\",
+      "projectPath": "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.API\\Order.API.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\TranVanDu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3301,7 +3301,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -3337,7 +3337,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

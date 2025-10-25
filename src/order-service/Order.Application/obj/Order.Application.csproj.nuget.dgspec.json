@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\Order.Application.csproj": {}
+    "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\Order.Application.csproj": {}
   },
   "projects": {
-    "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\Order.Application.csproj": {
+    "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\Order.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\Order.Application.csproj",
+        "projectUniqueName": "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\Order.Application.csproj",
         "projectName": "Order.Application",
-        "projectPath": "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\Order.Application.csproj",
+        "projectPath": "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\Order.Application.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\obj\\",
+        "outputPath": "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\Order.Domain.csproj": {
-                "projectPath": "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\Order.Domain.csproj"
+              "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\Order.Domain.csproj": {
+                "projectPath": "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\Order.Domain.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\Order.Domain.csproj": {
+    "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\Order.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\Order.Domain.csproj",
+        "projectUniqueName": "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\Order.Domain.csproj",
         "projectName": "Order.Domain",
-        "projectPath": "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\Order.Domain.csproj",
+        "projectPath": "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\Order.Domain.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\obj\\",
+        "outputPath": "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

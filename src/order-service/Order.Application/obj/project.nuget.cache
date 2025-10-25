@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gGjJ0flpcZc=",
+  "dgSpecHash": "T7r4jbcoJAE=",
   "success": true,
-  "projectFilePath": "D:\\projects\\App\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\Order.Application.csproj",
+  "projectFilePath": "D:\\projects\\OOP-WebAPP\\ev-battery-trading-platform\\src\\order-service\\Order.Application\\Order.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
